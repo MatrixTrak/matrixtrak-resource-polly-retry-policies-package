@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-23T12:44:42.415Z",
+  "generatedAt": "2026-05-23T12:57:42.347Z",
   "resourceSlug": "polly-retry-policies-package",
   "title": "Polly Retry Policies package",
   "description": "A small shipped kit for safe Polly retries: C# client wrapper, retry checklist, retry logging schema, and setup notes.",
