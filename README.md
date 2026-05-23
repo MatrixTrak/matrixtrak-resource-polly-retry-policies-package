@@ -17,6 +17,14 @@ It is designed for quick implementation support, community sharing, and stable v
 
 A small shipped kit for safe Polly retries: C# client wrapper, retry checklist, retry logging schema, and setup notes.
 
+## Repository Contents
+
+- `resources/` contains shipped files copied from MatrixTrak public ship assets when available
+- `docs/post-mapping.md` maps this resource to related blog posts
+- `docs/resource-files.md` lists included files and source mapping
+- Included shipped files:
+  - resources/polly-retry-policies-done-right-backoff-jitter-caps-stop-rules.zip
+
 ## Who This Is For
 
 - Engineers handling production incidents and reliability gaps
