@@ -1,0 +1,13 @@
+{
+  "generatedAt": "2026-05-23T11:14:38.074Z",
+  "resourceSlug": "polly-retry-policies-package",
+  "title": "Polly Retry Policies package",
+  "description": "A small shipped kit for safe Polly retries: C# client wrapper, retry checklist, retry logging schema, and setup notes.",
+  "category": ".NET",
+  "pillar": "",
+  "canonicalResourceUrl": "https://matrixtrak.com/resources/polly-retry-policies-package",
+  "primaryPostSlugs": [
+    "polly-retry-policies-done-right-backoff-jitter-caps-stop-rules"
+  ],
+  "secondaryRelatedPostSlugs": []
+}
